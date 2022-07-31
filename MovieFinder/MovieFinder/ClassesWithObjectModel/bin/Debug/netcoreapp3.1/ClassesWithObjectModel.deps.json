@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ClassesWithObjectModel/1.0.0": {
+        "dependencies": {
+          "ManagerLib": "1.0.0"
+        },
+        "runtime": {
+          "ClassesWithObjectModel.dll": {}
+        }
+      },
+      "ManagerLib/1.0.0": {
+        "runtime": {
+          "ManagerLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassesWithObjectModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManagerLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
