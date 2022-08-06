@@ -10,7 +10,6 @@ F:\Korepetycje\Osoby\SebastianGliwice\C#\MovieFinder\ManagerLib\obj\Debug\netcor
 C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\ManagerLib\bin\Debug\netcoreapp3.1\ManagerLib.deps.json
 C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\ManagerLib\bin\Debug\netcoreapp3.1\ManagerLib.dll
 C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\ManagerLib\bin\Debug\netcoreapp3.1\ManagerLib.pdb
-C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\ManagerLib\obj\Debug\netcoreapp3.1\ManagerLib.csproj.AssemblyReference.cache
 C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\ManagerLib\obj\Debug\netcoreapp3.1\ManagerLib.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\ManagerLib\obj\Debug\netcoreapp3.1\ManagerLib.AssemblyInfoInputs.cache
 C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\ManagerLib\obj\Debug\netcoreapp3.1\ManagerLib.AssemblyInfo.cs

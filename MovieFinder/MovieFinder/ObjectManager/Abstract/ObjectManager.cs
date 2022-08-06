@@ -8,9 +8,9 @@ using System.Xml.Serialization;
 
 namespace ObjectManager
 {
-    class Manager<T> : IEnumerable where T : IElementWithId
+    public class Manager<T> : IEnumerable where T : IElementWithId
     {
-        private List<T> list;
+        public List<T> list;
         private Dictionary<Guid, T> dictionary;
 
         public string FileName { get; set; }
@@ -27,6 +27,17 @@ namespace ObjectManager
             list.Add(item);
             dictionary.Add(item.Id, item);
             Save();
+        }
+        public int ExistsIs(int id)
+        {
+            if(list.Exists(x => x.IDmovie == id))
+            {
+                return id;
+            }
+            else
+            {
+                return 0;
+            }
         }
         public void Remove(T item)
         {

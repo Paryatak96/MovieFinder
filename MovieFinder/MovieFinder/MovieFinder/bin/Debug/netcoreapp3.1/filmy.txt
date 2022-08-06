@@ -1,13 +1,11 @@
 <?xml version="1.0"?>
 <ArrayOfMovieModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <MovieModel>
-    <Id>4e61c9e2-cf9f-4a18-a773-f2977d690801</Id>
+    <Id>9d2f33d0-4b50-4205-9c6f-3188e6615e5e</Id>
     <Title>Titanic</Title>
-    <TimeMinutes>137</TimeMinutes>
-  </MovieModel>
-  <MovieModel>
-    <Id>ef98f78b-b82e-4a7b-bee1-a56dba5e839a</Id>
-    <Title>Teoria Wszystkiego</Title>
-    <TimeMinutes>120</TimeMinutes>
+    <TimeMinutes>194</TimeMinutes>
+    <IDmovie>1</IDmovie>
+    <Rezyser>James Cameron</Rezyser>
+    <DataPremiery>0001-01-01T00:00:00</DataPremiery>
   </MovieModel>
 </ArrayOfMovieModel>

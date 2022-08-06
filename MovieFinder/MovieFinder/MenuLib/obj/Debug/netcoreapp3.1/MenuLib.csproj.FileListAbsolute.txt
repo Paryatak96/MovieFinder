@@ -20,7 +20,6 @@ F:\Korepetycje\Osoby\SebastianGliwice\C#\MovieFinder\MenuLib\obj\Debug\netcoreap
 C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\MenuLib\bin\Debug\netcoreapp3.1\MenuLib.deps.json
 C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\MenuLib\bin\Debug\netcoreapp3.1\MenuLib.dll
 C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\MenuLib\bin\Debug\netcoreapp3.1\MenuLib.pdb
-C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\MenuLib\obj\Debug\netcoreapp3.1\MenuLib.csproj.AssemblyReference.cache
 C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\MenuLib\obj\Debug\netcoreapp3.1\MenuLib.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\MenuLib\obj\Debug\netcoreapp3.1\MenuLib.AssemblyInfoInputs.cache
 C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\MenuLib\obj\Debug\netcoreapp3.1\MenuLib.AssemblyInfo.cs

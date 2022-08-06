@@ -11,9 +11,11 @@ namespace ClassesWithObjectModel
         {
             Id = Guid.NewGuid();
         }
-
         public Guid Id { get; set; }
         public string Title { get; set; }
         public int TimeMinutes { get; set; }
+        public int IDmovie { get; set; }
+        public string Rezyser { get; set; }
+        public DateTime DataPremiery { get; set; }
     }
 }

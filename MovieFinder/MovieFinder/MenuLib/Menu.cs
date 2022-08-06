@@ -14,7 +14,6 @@ namespace MenuLib
         private int seletedItemIndex;
         private ConsoleColor baseBackColor;
         private ConsoleColor baseForeColor;
-        public Menu() { }
         public Menu(string title)
         {
             menuItems = new List<MenuItem<T>>();
@@ -23,15 +22,11 @@ namespace MenuLib
             seletedItemIndex = 0;
             baseBackColor = Console.BackgroundColor;
             baseForeColor = Console.ForegroundColor;
-
-
         }
-
         public void AddItem(T number, string text)
         {
             menuItems.Add(new MenuItem<T>(number, properties, text));
         }
-
         public T Choice()
         {
             Console.Clear();
@@ -44,9 +39,8 @@ namespace MenuLib
                 switch (button)
                 {
                     case ConsoleKey.DownArrow:
-                        //  controls.MoveDown(button, controls);
                         seletedItemIndex++;
-                          seletedItemIndex = (seletedItemIndex + menuItems.Count) % menuItems.Count;
+                        seletedItemIndex = (seletedItemIndex + menuItems.Count) % menuItems.Count;
                         Show(seletedItemIndex);
                         break;
 
@@ -64,7 +58,6 @@ namespace MenuLib
                 }
             } while (true);
         }
-
         private void Show(int pointer)
         {
             Controls control = new Controls();
@@ -77,8 +70,6 @@ namespace MenuLib
             }
             Console.BackgroundColor = baseBackColor;
             Console.ForegroundColor = baseForeColor;
-
         }
-        MenuProperties Properties { get; } 
     }
 }

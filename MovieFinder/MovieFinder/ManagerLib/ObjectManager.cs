@@ -10,11 +10,9 @@ namespace ObjectManager
 {
     public class Manager<T> : IEnumerable where T : IElementWithId
     {
-        private List<T> list;
+        public List<T> list;
         private Dictionary<Guid, T> dictionary;
-
         public string FileName { get; set; }
-
         public Manager(string fileName)
         {
             this.FileName = fileName;
