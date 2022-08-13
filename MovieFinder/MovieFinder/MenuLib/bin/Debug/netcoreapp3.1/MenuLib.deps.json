@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "MenuLib/1.0.0": {
         "dependencies": {
+          "ClassesWithObjectModel": "1.0.0",
           "System.Collections": "4.3.0"
         },
         "runtime": {
@@ -27,6 +28,19 @@
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0",
           "Microsoft.NETCore.Targets": "1.1.0"
+        }
+      },
+      "ClassesWithObjectModel/1.0.0": {
+        "dependencies": {
+          "ManagerLib": "1.0.0"
+        },
+        "runtime": {
+          "ClassesWithObjectModel.dll": {}
+        }
+      },
+      "ManagerLib/1.0.0": {
+        "runtime": {
+          "ManagerLib.dll": {}
         }
       }
     }
@@ -64,6 +78,16 @@
       "sha512": "sha512-JufQi0vPQ0xGnAczR13AUFglDyVYt4Kqnz1AZaiKZ5+GICq0/1MH/mO/eAJHt/mHW1zjKBJd7kV26SrxddAhiw==",
       "path": "system.runtime/4.3.0",
       "hashPath": "system.runtime.4.3.0.nupkg.sha512"
+    },
+    "ClassesWithObjectModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManagerLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

@@ -40,6 +40,29 @@
         "compile": {
           "ref/netstandard1.5/System.Runtime.dll": {}
         }
+      },
+      "ClassesWithObjectModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ManagerLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ClassesWithObjectModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassesWithObjectModel.dll": {}
+        }
+      },
+      "ManagerLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ManagerLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ManagerLib.dll": {}
+        }
       }
     }
   },
@@ -233,10 +256,21 @@
         "system.runtime.4.3.0.nupkg.sha512",
         "system.runtime.nuspec"
       ]
+    },
+    "ClassesWithObjectModel/1.0.0": {
+      "type": "project",
+      "path": "../ClassesWithObjectModel/ClassesWithObjectModel.csproj",
+      "msbuildProject": "../ClassesWithObjectModel/ClassesWithObjectModel.csproj"
+    },
+    "ManagerLib/1.0.0": {
+      "type": "project",
+      "path": "../ManagerLib/ManagerLib.csproj",
+      "msbuildProject": "../ManagerLib/ManagerLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "ClassesWithObjectModel >= 1.0.0",
       "System.Collections >= 4.3.0"
     ]
   },
@@ -266,7 +300,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Sebastian\\Source\\Repos\\MovieFinder\\MovieFinder\\ClassesWithObjectModel\\ClassesWithObjectModel.csproj": {
+              "projectPath": "C:\\Users\\Sebastian\\Source\\Repos\\MovieFinder\\MovieFinder\\ClassesWithObjectModel\\ClassesWithObjectModel.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

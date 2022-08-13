@@ -12,7 +12,8 @@
           "FluentAssertions": "6.7.0",
           "ManagerLib": "1.0.0",
           "MenuLib": "1.0.0",
-          "Newtonsoft.Json": "13.0.1"
+          "Newtonsoft.Json": "13.0.1",
+          "TableToDisplay": "1.0.0"
         },
         "runtime": {
           "MovieFinder.dll": {}
@@ -94,10 +95,16 @@
       },
       "MenuLib/1.0.0": {
         "dependencies": {
+          "ClassesWithObjectModel": "1.0.0",
           "System.Collections": "4.3.0"
         },
         "runtime": {
           "MenuLib.dll": {}
+        }
+      },
+      "TableToDisplay/1.0.0": {
+        "runtime": {
+          "TableToDisplay.dll": {}
         }
       }
     }
@@ -175,6 +182,11 @@
       "sha512": ""
     },
     "MenuLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TableToDisplay/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ClassesWithObjectModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -26,6 +27,10 @@ namespace MenuLib
         public void AddItem(T number, string text)
         {
             menuItems.Add(new MenuItem<T>(number, properties, text));
+        }
+        public void AddItem(T number, MovieModel model)
+        {
+            menuItems.Add(new MenuItem<T>(number, properties, model));
         }
         public T Choice()
         {

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ClassesWithObjectModel
 {
-    public class MovieModel : IElementWithId
+    public class MovieModel : IElementWithId, IMovieModel
     {
         public MovieModel()
         {
@@ -17,5 +17,6 @@ namespace ClassesWithObjectModel
         public int IDmovie { get; set; }
         public string Rezyser { get; set; }
         public DateTime DataPremiery { get; set; }
+        public string TypeMovie { get; set; }
     }
 }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ClassesWithObjectModel;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -9,6 +10,7 @@ namespace MenuLib
         private MenuProperties properties;
         private ItemProperties itemProperties = new ItemProperties();
         private string text;
+        private MovieModel model;
         private T id;
         private bool isTitle;
         public MenuItem(MenuProperties properties, string text)
@@ -32,6 +34,18 @@ namespace MenuLib
             if (properties.TextSize < text.Length)
             {
                 properties.TextSize = text.Length;
+            }
+        }
+        public MenuItem(T id, MenuProperties properties, MovieModel text)
+        {
+            this.id = id;
+            this.properties = properties;
+            this.model = text;
+            this.isTitle = false;
+
+            if (properties.TextSize < model.Title.Length)
+            {
+                properties.TextSize = model.Title.Length;
             }
         }
         public void Print()
@@ -59,8 +73,8 @@ namespace MenuLib
             string postfix = itemProperties.Postfix;
             Console.BackgroundColor = itemProperties.BackgroundColor;
             Console.ForegroundColor = itemProperties.TextColor;
-
             string idText = id.ToString() + " - ";
+
             int textSize = properties.TextSize;
             if (isTitle)
             {

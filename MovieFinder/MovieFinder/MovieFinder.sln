@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MenuLib", "MenuLib\MenuLib.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManagerLib", "ManagerLib\ManagerLib.csproj", "{9399F63A-5C82-4179-AD7C-BA153C484B32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableToDisplay", "TableToDisplay\TableToDisplay.csproj", "{93CD460B-23A4-45DB-8FDF-B96B2F105E79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{9399F63A-5C82-4179-AD7C-BA153C484B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9399F63A-5C82-4179-AD7C-BA153C484B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9399F63A-5C82-4179-AD7C-BA153C484B32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93CD460B-23A4-45DB-8FDF-B96B2F105E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CD460B-23A4-45DB-8FDF-B96B2F105E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CD460B-23A4-45DB-8FDF-B96B2F105E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CD460B-23A4-45DB-8FDF-B96B2F105E79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

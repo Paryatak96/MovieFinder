@@ -1,0 +1,10 @@
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\TableToDisplay\bin\Debug\netcoreapp3.1\TableToDisplay.deps.json
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\TableToDisplay\bin\Debug\netcoreapp3.1\TableToDisplay.dll
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\TableToDisplay\bin\Debug\netcoreapp3.1\TableToDisplay.pdb
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\TableToDisplay\obj\Debug\netcoreapp3.1\TableToDisplay.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\TableToDisplay\obj\Debug\netcoreapp3.1\TableToDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\TableToDisplay\obj\Debug\netcoreapp3.1\TableToDisplay.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\TableToDisplay\obj\Debug\netcoreapp3.1\TableToDisplay.AssemblyInfo.cs
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\TableToDisplay\obj\Debug\netcoreapp3.1\TableToDisplay.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\TableToDisplay\obj\Debug\netcoreapp3.1\TableToDisplay.dll
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\TableToDisplay\obj\Debug\netcoreapp3.1\TableToDisplay.pdb

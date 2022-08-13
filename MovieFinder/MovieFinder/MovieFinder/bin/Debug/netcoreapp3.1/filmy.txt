@@ -1,11 +1,21 @@
 <?xml version="1.0"?>
 <ArrayOfMovieModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <MovieModel>
-    <Id>9d2f33d0-4b50-4205-9c6f-3188e6615e5e</Id>
-    <Title>Titanic</Title>
-    <TimeMinutes>194</TimeMinutes>
+    <Id>8b74f420-2cfd-490e-91d4-edb79837e6c5</Id>
+    <Title>Obecność</Title>
+    <TimeMinutes>112</TimeMinutes>
     <IDmovie>1</IDmovie>
-    <Rezyser>James Cameron</Rezyser>
+    <Rezyser>James Wan</Rezyser>
     <DataPremiery>0001-01-01T00:00:00</DataPremiery>
+    <TypeMovie>Horror</TypeMovie>
+  </MovieModel>
+  <MovieModel>
+    <Id>c107f6ae-53b2-4e10-b479-97715c73a7b4</Id>
+    <Title>Interstellar</Title>
+    <TimeMinutes>169</TimeMinutes>
+    <IDmovie>2</IDmovie>
+    <Rezyser>Christopher Nolan</Rezyser>
+    <DataPremiery>0001-01-01T00:00:00</DataPremiery>
+    <TypeMovie>Sci-Fi</TypeMovie>
   </MovieModel>
 </ArrayOfMovieModel>

@@ -26,3 +26,9 @@ C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\MenuLib\obj\Debug\netcor
 C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\MenuLib\obj\Debug\netcoreapp3.1\MenuLib.csproj.CoreCompileInputs.cache
 C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\MenuLib\obj\Debug\netcoreapp3.1\MenuLib.dll
 C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\MenuLib\obj\Debug\netcoreapp3.1\MenuLib.pdb
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\MenuLib\obj\Debug\netcoreapp3.1\MenuLib.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\MenuLib\bin\Debug\netcoreapp3.1\ClassesWithObjectModel.dll
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\MenuLib\bin\Debug\netcoreapp3.1\ManagerLib.dll
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\MenuLib\bin\Debug\netcoreapp3.1\ClassesWithObjectModel.pdb
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\MenuLib\bin\Debug\netcoreapp3.1\ManagerLib.pdb
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\MenuLib\obj\Debug\netcoreapp3.1\MenuLib.csproj.CopyComplete

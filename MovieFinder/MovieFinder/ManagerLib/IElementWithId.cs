@@ -10,6 +10,5 @@ namespace Manager.Abstract
         {
             get;
         }
-        public int IDmovie { get; set; }
     }
 }

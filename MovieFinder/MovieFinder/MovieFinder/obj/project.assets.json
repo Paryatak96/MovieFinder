@@ -116,6 +116,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "ClassesWithObjectModel": "1.0.0",
           "System.Collections": "4.3.0"
         },
         "compile": {
@@ -123,6 +124,16 @@
         },
         "runtime": {
           "bin/placeholder/MenuLib.dll": {}
+        }
+      },
+      "TableToDisplay/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TableToDisplay.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TableToDisplay.dll": {}
         }
       }
     }
@@ -451,6 +462,11 @@
       "type": "project",
       "path": "../MenuLib/MenuLib.csproj",
       "msbuildProject": "../MenuLib/MenuLib.csproj"
+    },
+    "TableToDisplay/1.0.0": {
+      "type": "project",
+      "path": "../TableToDisplay/TableToDisplay.csproj",
+      "msbuildProject": "../TableToDisplay/TableToDisplay.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -459,7 +475,8 @@
       "FluentAssertions >= 6.7.0",
       "ManagerLib >= 1.0.0",
       "MenuLib >= 1.0.0",
-      "Newtonsoft.Json >= 13.0.1"
+      "Newtonsoft.Json >= 13.0.1",
+      "TableToDisplay >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -497,6 +514,9 @@
             },
             "C:\\Users\\Sebastian\\Source\\Repos\\MovieFinder\\MovieFinder\\MenuLib\\MenuLib.csproj": {
               "projectPath": "C:\\Users\\Sebastian\\Source\\Repos\\MovieFinder\\MovieFinder\\MenuLib\\MenuLib.csproj"
+            },
+            "C:\\Users\\Sebastian\\Source\\Repos\\MovieFinder\\MovieFinder\\TableToDisplay\\TableToDisplay.csproj": {
+              "projectPath": "C:\\Users\\Sebastian\\Source\\Repos\\MovieFinder\\MovieFinder\\TableToDisplay\\TableToDisplay.csproj"
             }
           }
         }
