@@ -5,7 +5,7 @@
     <Title>Obecność</Title>
     <TimeMinutes>112</TimeMinutes>
     <IDmovie>1</IDmovie>
-    <Rezyser>James Wan</Rezyser>
+    <Director>James Wan</Director>
     <DataPremiery>0001-01-01T00:00:00</DataPremiery>
     <TypeMovie>Horror</TypeMovie>
   </MovieModel>
@@ -14,7 +14,7 @@
     <Title>Interstellar</Title>
     <TimeMinutes>169</TimeMinutes>
     <IDmovie>2</IDmovie>
-    <Rezyser>Christopher Nolan</Rezyser>
+    <Director>Christopher Nolan</Director>
     <DataPremiery>0001-01-01T00:00:00</DataPremiery>
     <TypeMovie>Sci-Fi</TypeMovie>
   </MovieModel>

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OtqynacIHbcfanKYYB/BWxSzLhprtjUB3Y/nQ+HbdXWPi9wqgIkpOsXdMTwz2jrke7Xnx8thDDav+2w6Pq/RaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sebastian\\Source\\Repos\\MovieFinder\\MovieFinder\\LoginAndRegister\\Users.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sebastian\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sebastian\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sebastian\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Sebastian\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfSerialModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SerialModel>
+    <Id>09900eb0-e193-4f88-ada9-de9f7e6e1134</Id>
+    <Title>The Walking Dead</Title>
+    <TimeMinutes>45</TimeMinutes>
+    <IDserial>1</IDserial>
+    <Director>Robert Kirkman</Director>
+    <TypeSerial>Horror</TypeSerial>
+    <DataPremiery>0001-01-01T00:00:00</DataPremiery>
+    <Seasons>11</Seasons>
+  </SerialModel>
+</ArrayOfSerialModel>

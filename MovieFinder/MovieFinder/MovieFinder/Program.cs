@@ -14,7 +14,7 @@ namespace MovieFinder
     {
         static void Main(string[] args)
         {
-            MenuSide.MainMenu();
+            MenuSide.MainMenuLog();
         }
     }
 }

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfUsersModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UsersModel>
+    <Id>6967b93f-4214-4728-863d-adb78da30fdd</Id>
+    <Login>sebastian</Login>
+    <Password>heroes96</Password>
+    <Imię>Sebastian</Imię>
+    <Nazwisko>Liszewski</Nazwisko>
+    <Email>Sebastian.Liszewski96@outlook.com</Email>
+  </UsersModel>
+</ArrayOfUsersModel>

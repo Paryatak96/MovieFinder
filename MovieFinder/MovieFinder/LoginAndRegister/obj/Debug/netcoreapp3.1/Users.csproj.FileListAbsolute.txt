@@ -1,0 +1,17 @@
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\LoginAndRegister\bin\Debug\netcoreapp3.1\Users.deps.json
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\LoginAndRegister\bin\Debug\netcoreapp3.1\Users.dll
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\LoginAndRegister\bin\Debug\netcoreapp3.1\Users.pdb
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\LoginAndRegister\bin\Debug\netcoreapp3.1\ClassesWithObjectModel.dll
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\LoginAndRegister\bin\Debug\netcoreapp3.1\ManagerLib.dll
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\LoginAndRegister\bin\Debug\netcoreapp3.1\MenuLib.dll
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\LoginAndRegister\bin\Debug\netcoreapp3.1\ManagerLib.pdb
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\LoginAndRegister\bin\Debug\netcoreapp3.1\MenuLib.pdb
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\LoginAndRegister\bin\Debug\netcoreapp3.1\ClassesWithObjectModel.pdb
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\LoginAndRegister\obj\Debug\netcoreapp3.1\Users.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\LoginAndRegister\obj\Debug\netcoreapp3.1\Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\LoginAndRegister\obj\Debug\netcoreapp3.1\Users.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\LoginAndRegister\obj\Debug\netcoreapp3.1\Users.AssemblyInfo.cs
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\LoginAndRegister\obj\Debug\netcoreapp3.1\Users.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\LoginAndRegister\obj\Debug\netcoreapp3.1\Users.csproj.CopyComplete
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\LoginAndRegister\obj\Debug\netcoreapp3.1\Users.dll
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\LoginAndRegister\obj\Debug\netcoreapp3.1\Users.pdb

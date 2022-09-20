@@ -13,7 +13,8 @@
           "ManagerLib": "1.0.0",
           "MenuLib": "1.0.0",
           "Newtonsoft.Json": "13.0.1",
-          "TableToDisplay": "1.0.0"
+          "TableToDisplay": "1.0.0",
+          "Users": "1.0.0"
         },
         "runtime": {
           "MovieFinder.dll": {}
@@ -106,6 +107,15 @@
         "runtime": {
           "TableToDisplay.dll": {}
         }
+      },
+      "Users/1.0.0": {
+        "dependencies": {
+          "ManagerLib": "1.0.0",
+          "MenuLib": "1.0.0"
+        },
+        "runtime": {
+          "Users.dll": {}
+        }
       }
     }
   },
@@ -187,6 +197,11 @@
       "sha512": ""
     },
     "TableToDisplay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Users/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

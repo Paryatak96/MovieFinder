@@ -78,3 +78,5 @@ C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\MovieFinder\obj\Debug\ne
 C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\MovieFinder\obj\Debug\netcoreapp3.1\MovieFinder.genruntimeconfig.cache
 C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\MovieFinder\bin\Debug\netcoreapp3.1\TableToDisplay.dll
 C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\MovieFinder\bin\Debug\netcoreapp3.1\TableToDisplay.pdb
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\MovieFinder\bin\Debug\netcoreapp3.1\Users.dll
+C:\Users\Sebastian\Source\Repos\MovieFinder\MovieFinder\MovieFinder\bin\Debug\netcoreapp3.1\Users.pdb

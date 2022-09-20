@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ClassesWithObjectModel\ClassesWithObjectModel.csproj" />
+    <ProjectReference Include="..\LoginAndRegister\Users.csproj" />
     <ProjectReference Include="..\ManagerLib\ManagerLib.csproj" />
     <ProjectReference Include="..\MenuLib\MenuLib.csproj" />
     <ProjectReference Include="..\TableToDisplay\TableToDisplay.csproj" />
